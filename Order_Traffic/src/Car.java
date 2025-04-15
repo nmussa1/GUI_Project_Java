@@ -1,9 +1,3 @@
-/*
-Nezifa Mussa
-CMSC 335 Project 3
-Dr. Mihaela Dinsoreanu
-07/09/2024
- */
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.util.Random;
